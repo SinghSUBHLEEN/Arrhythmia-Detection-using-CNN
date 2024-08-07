@@ -1,0 +1,192 @@
+Abnormal dataset:
+
+Person_01/rec_7.dat
+
+Person_01/rec_13.dat
+
+Person_01/rec_18.dat
+
+Person_02/rec_1.dat
+
+Person_02/rec_2.dat
+
+Person_02/rec_5.dat
+
+Person_02/rec_6.dat
+
+Person_02/rec_7.dat
+
+Person_02/rec_11.dat
+
+Person_02/rec_13.dat
+
+Person_02/rec_15.dat
+
+Person_02/rec_16.dat
+
+Person_02/rec_19.dat
+
+Person_02/rec_20.dat
+
+Person_06/rec_2.dat
+
+Person_07/rec_2.dat
+
+Person_09/rec_1.dat
+
+Person_09/rec_2.dat
+
+Person_09/rec_3.dat
+
+Person_09/rec_5.dat
+
+Person_24/rec_5.dat
+
+Person_38/rec_2.dat
+
+Person_39/rec_1.dat
+
+Person_39/rec_2.dat
+
+Person_51/rec_1.dat
+
+Person_53/rec_1.dat
+
+Person_53/rec_2.dat
+
+Person_53/rec_5.dat
+
+Person_54/rec_2.dat
+
+Person_59/rec_1.dat
+
+Person_59/rec_4.dat
+
+Person_60/rec_3.dat
+
+Person_63/rec_3.dat
+
+Person_70/rec_1.dat
+
+Person_71/rec_3.dat
+
+Person_72/rec_1.dat
+
+Person_79/rec_2.dat
+
+Person_81/rec_2.dat
+
+Person_82/rec_1.dat
+
+Person_82/rec_2.dat
+
+
+
+
+
+Delete Records:
+
+Person_07/rec_1.dat
+
+Person_09/rec_4.dat
+
+Person_09/rec_7.dat
+
+Person_10/rec_2.dat
+
+Person_10/rec_3.dat
+
+Person_10/rec_5.dat
+
+Full Person_11
+
+Full Person_13
+
+Full Person_14
+
+Person_15/rec_1.dat
+
+Full Person_20
+
+Full Person_21
+
+Full Person_22
+
+Full Person_23
+
+Person_25/rec_4.dat
+
+Person_26/rec_3.dat
+
+Person_27/rec_3.dat
+
+Person_28/rec_4.dat
+
+Person_32/rec_6.dat
+
+Full Person_33
+
+Full Person_36
+
+Person_38/rec_1.dat
+
+Person_40/rec_1.dat
+
+Full Person_49
+
+Person_59/rec_2.dat
+
+Person_59/rec_3.dat
+
+Person_60/rec_2.dat
+
+Full Person_62
+
+Person_63/rec_4.dat
+
+Person_63/rec_5.dat
+
+Person_63/rec_6.dat
+
+Full Person_66
+
+Full Person_68
+
+Person_71/rec_1.dat
+
+Person_71/rec_2.dat
+
+Person_71/rec_5.dat
+
+Person_72/rec_3.dat
+
+Person_72/rec_5.dat
+
+Full Person_73
+
+Full Person_76
+
+Full Person_80
+
+Person_81/rec_1.dat
+
+Full Person_83
+
+Person_84/rec_1.dat
+
+Person_85/rec_1.dat
+
+Person_85/rec_2.dat
+
+Full Person_86
+
+Full Person_87
+
+Person_88/rec_1.dat
+
+Person_89/rec_2.dat
+
+Full Person_90
+
+
+
